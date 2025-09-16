@@ -1,3 +1,6 @@
+## [1.0.1] - Stalled Feature
+- Feature from stalled branch
+
 # CHANGELOG
 All notable changes to this project are documented in this file.
 
