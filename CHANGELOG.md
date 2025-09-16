@@ -1,3 +1,6 @@
+## [2.1.0] - Maintenance Release
+- Maintenance branch updates
+
 # CHANGELOG
 All notable changes to this project are documented in this file.
 
